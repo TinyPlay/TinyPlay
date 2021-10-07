@@ -5,11 +5,11 @@ Here we post our interesting developments and templates for game developers. We 
 ## Pixel Incubator
 We are one of the creators of the Pixel Incubator. It's a place where we train new talent in the gaming industry. Our goal is to give kids the opportunity to express themselves and gain new experiences in the industry.
 
-Read more about the incubator here:
+<b>Read more about the incubator here:</b><br/>
 https://pixinc.club/
 
 ## About TinyPlay
 The team's history stretches back to 2016. That's when we started developing our first social games. Today we create high quality mobile and console games, as well as provide outstore services.
 
-<b>Read more about us at official website:</b>
+<b>Read more about us at official website:</b><br/>
 https://tinydev.ru/
