@@ -8,6 +8,9 @@ We are one of the creators of the Pixel Incubator. It's a place where we train n
 <b>Read more about the incubator here:</b><br/>
 https://pixinc.club/
 
+<b>Join to the Discord Sever:</b><br/>
+https://discord.gg/Ee9sYsttWP
+
 ## About TinyPlay
 The team's history stretches back to 2016. That's when we started developing our first social games. Today we create high quality mobile and console games, as well as provide outstore services.
 
