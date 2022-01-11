@@ -21,11 +21,11 @@ https://tinydev.ru/
 <a href="https://play.google.com/store/apps/details?id=com.interwave.freelancer" target="_blank">Freelancer Simulator</a><br/>
 <a href="https://play.google.com/store/apps/details?id=com.ocugine.freelancer2" target="_blank">Freelancer Simulator 2</a><br/>
 
-## Pixel Anti-Cheat
-Pixel Anti-Cheat was developed for Unity and is supported on versions above 2017+.<br/><br/>
-
-You can use this set of libraries absolutely free of charge:<br/>
-https://github.com/TinyPlay/Pixel-Anticheat
+## Open Source Solutions
+**You can use this set of libraries absolutely free of charge:**<br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=Pixel-Anticheat&theme=synthwave" />
+</a>
 
 ## Pixel Incubator
 We are one of the creators of the Pixel Incubator. It's a place where we train new talent in the gaming industry. Our goal is to give kids the opportunity to express themselves and gain new experiences in the industry.
