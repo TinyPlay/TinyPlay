@@ -1,6 +1,13 @@
 # Welcome to the TinyPlay Github!
 Hi all, we are a small team of game developers from Perm (Russia). We create games and solutions for mobile devices, PC and consoles.
-Here we post our interesting developments and templates for game developers. We mostly use Unity, but for some projects we use WebGL.
+Here we post our interesting developments and templates for game developers. We mostly use Unity, but for some projects we use WebGL.<br/><br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=TinyPlay&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyPlay&hide=css,html&theme=synthwave" />
+</a><br/><br/>
 
 The team's history stretches back to 2016. That's when we started developing our first social games. Today we create high quality mobile and console games, as well as provide outstore services.
 
