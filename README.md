@@ -26,6 +26,9 @@ https://tinydev.ru/
 <a href="https://github.com/TinyPlay/Pixel-Anticheat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=Pixel-Anticheat&theme=synthwave" />
 </a>
+<a href="https://github.com/TinyPlay/XDot-Unity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=XDot-Unity&theme=synthwave" />
+</a>
 <a href="https://github.com/TinyPlay/URPShadersCollection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=URPShadersCollection&theme=synthwave" />
 </a>
