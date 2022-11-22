@@ -12,7 +12,7 @@ Here we post our interesting developments and templates for game developers. We 
 The team's history stretches back to 2016. That's when we started developing our first social games. Today we create high quality mobile and console games, as well as provide outstore services.
 
 <b>Read more about us at official website:</b><br/>
-https://tinydev.ru/
+https://tinyplay.games/
 
 <b>Our Games:</b><br/>
 <a href="https://play.google.com/store/apps/details?id=com.TinyPlay.TinyMafia" target="_blank">Tiny Mafia: War of Syndicates</a><br/>
@@ -32,12 +32,3 @@ https://tinydev.ru/
 <a href="https://github.com/TinyPlay/URPShadersCollection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=URPShadersCollection&theme=synthwave" />
 </a>
-
-## Pixel Incubator
-We are one of the creators of the Pixel Incubator. It's a place where we train new talent in the gaming industry. Our goal is to give kids the opportunity to express themselves and gain new experiences in the industry.
-
-<b>Read more about the incubator here:</b><br/>
-https://pixinc.club/
-
-<b>Join to the Discord Sever:</b><br/>
-https://discord.gg/Ee9sYsttWP
