@@ -1,3 +1,5 @@
+<img align="top" src="https://img.itch.zone/aW1nLzExNTMzODc2LmpwZw==/original/gejTeE.jpg" />
+
 # Welcome to the TinyPlay Github!
 TinyPlay Games - an indepedent game development team. Here you can find all our opensource assets and systems. Our games and solutions powered by Unity Engine.
 Here we post our interesting developments and templates for game developers. We mostly use Unity, but for some projects we use WebGL.<br/><br/>
