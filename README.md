@@ -20,7 +20,7 @@ The team's history stretches back to 2016. That's when we started developing our
 
 ## Open Source Solutions
 **You can use this set of libraries absolutely free of charge:**<br/><br/>
-<a href="https://github.com/TinyPlay/Pixel-Anticheat">
+<a href="https://github.com/TinyPlay/PixelSecurityToolkit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=PixelSecurityToolkit&theme=synthwave" />
 </a>
 <a href="https://github.com/TinyPlay/USaveSerializer">
