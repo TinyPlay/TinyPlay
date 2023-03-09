@@ -21,7 +21,7 @@ The team's history stretches back to 2016. That's when we started developing our
 ## Open Source Solutions
 **You can use this set of libraries absolutely free of charge:**<br/><br/>
 <a href="https://github.com/TinyPlay/Pixel-Anticheat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=Pixel-Anticheat&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=PixelSecurityToolkit&theme=synthwave" />
 </a>
 <a href="https://github.com/TinyPlay/USaveSerializer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=USaveSerializer&theme=synthwave" />
@@ -31,4 +31,7 @@ The team's history stretches back to 2016. That's when we started developing our
 </a>
 <a href="https://github.com/TinyPlay/URPShadersCollection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=URPShadersCollection&theme=synthwave" />
+</a>
+<a href="https://github.com/TinyPlay/Pixel-Anticheat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TinyPlay&repo=Pixel-Anticheat&theme=synthwave" />
 </a>
